@@ -1,0 +1,8 @@
+2015-11-21T14:22:20: Software update already downloaded, but not installed.
+2015-11-21T14:22:22: NOT LICENSED: License for NC-DSK expired 6/4/2015.
+2015-11-21T14:23:27: NOT LICENSED: License for NC-DSK expired 6/4/2015.
+2015-11-21T14:23:27: NOT LICENSED: License for NC-DSK expired 6/4/2015.
+2015-11-22T15:39:56: Check for software update: http://license.ncover.com/api/version_status/NC-DSK?version=5.0.2983.1113&f=F8:9D:72:B4:20:CB:E2:82:93:C1:25:95:18:C2:DA:C8:77:90:0F:B3&max_date=9999-12-31
+2015-11-22T15:40:33: Unable to check for software update: The operation has timed out
+2015-11-22T15:40:33: Unable to initiate software update download: Value cannot be null.
+Parameter name: version
